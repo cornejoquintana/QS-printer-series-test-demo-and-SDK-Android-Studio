@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/drawable_logoimage.jpg.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/drawable/logoimage.jpg"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/drawable-hdpi_demo.jpg.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/drawable-hdpi/demo.jpg"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/layout_activity_print_items.xml.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/layout/activity_print_items.xml"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/layout_activity_print_barcode.xml.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/layout/activity_print_barcode.xml"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/layout_activity_printsetting.xml.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/layout/activity_printsetting.xml"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/layout_activity_print_text.xml.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/layout/activity_print_text.xml"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/drawable_edittext.xml.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/drawable/edittext.xml"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/layout_activity_main_items.xml.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/layout/activity_main_items.xml"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/drawable_device_name.xml.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/drawable/device_name.xml"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/drawable_rela.xml.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/drawable/rela.xml"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/layout_activity_print_qrcode.xml.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/layout/activity_print_qrcode.xml"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/layout_activity_print_image.xml.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/layout/activity_print_image.xml"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/drawable_listview.xml.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/drawable/listview.xml"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/xml_device_filter.xml.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/build/intermediates/res/merged/debug/layout_activity_print_cmd.xml.flat",
+        "source": "/home/rhino/AndroidStudioProjects/PrinterTools(BT)/app/src/main/res/layout/activity_print_cmd.xml"
+    }
+]
